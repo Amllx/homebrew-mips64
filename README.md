@@ -8,7 +8,7 @@
 * `qemu-irix`
 
 ## How do I install these formulae?
-`brew tap amllx/homebrew-mips and then `brew install <formula>`.
+`brew tap amllx/homebrew-mips` and then `brew install <formula>`.
 
 Or `brew install tehzz/n64-dev/<formula>`
 
